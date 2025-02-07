@@ -1,7 +1,7 @@
 ## 📊 Meistgenutzte Sprachen  
 
 
-<h1 align="left">Welcome to my page </h1>
+<h1 align="center">Welcome to my page </h1>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Metorizz&&color=d612e0&style=flat" alt="metorizz" /></p>

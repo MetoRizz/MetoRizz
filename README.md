@@ -4,7 +4,7 @@
 ## 📊 Most used Languages
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Metorizz&theme=dark&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Metorizz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="150">
